@@ -4,10 +4,12 @@
 
 # 🌐 Awesome Social Media Scraping API 🚀
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Tracked Repos](https://img.shields.io/badge/Open--Source-24%2B%20Tools-blue?style=flat&logo=github)](https://github.com/ishandutta2007/Awesome-Social-Media-Scraping-API)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/ishandutta2007/Awesome-Social-Media-Scraping-API/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > **The definitive directory of high-performance SaaS social media scraping APIs, self-hosted web scrapers, residential proxy data unlockers, and open-source OSINT intelligence libraries.**
 
@@ -26,6 +28,8 @@ Curated with precision for software engineers, LLM data curators, quantitative r
   - [Detailed Open-Source Profiles](#detailed-open-source-profiles)
 - [🛠️ Architecture Recommendations](#-architecture-recommendations)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
 ---
@@ -245,6 +249,25 @@ We welcome contributions from developers, researchers, and maintainers!
 4. 💾 **Commit** your changes (`git commit -m 'Add awesome-scraper to directory'`).
 5. 🚀 **Push** to the branch (`git push origin feature/add-new-scraper`).
 6. 📬 Open a **Pull Request**.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated directory! Maintaining and updating these benchmarks, APIs, and open-source tools requires continuous effort and research. 
+
+If you find this repository valuable:
+- ⭐ **Star this repository** to show your appreciation and help others discover it.
+- 🍴 **Fork it** and contribute your favorite social media scraping tools and APIs.
+- 📢 **Share it** with your fellow developers, data engineers, and researchers on Twitter/X, LinkedIn, or Discord!
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new features, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is immensely appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Social-Media-Scraping-API&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Social-Media-Scraping-API&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Social-Media-Scraping-API&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Social-Media-Scraping-API&type=date&legend=top-left)
 
 ---
 
