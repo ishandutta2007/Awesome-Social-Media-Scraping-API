@@ -135,9 +135,9 @@ For data engineers, privacy researchers, and OSINT investigators who prefer self
 
 ### Star-Ranked Repository Directory
 
-Repositories are ranked in **descending order by GitHub star count**:
+Repositories are ranked in **descending order by GitHub Stars_Count**:
 
-| 🌟 Stars | 📦 Repository & Tool | 🛠️ Language / Stack | 🎯 Target Platform & Description |
+| 🌟 GitHub_Stars | 📦 Repository & Tool | 🛠️ Language / Stack | 🎯 Target Platform & Description |
 | :---: | :--- | :---: | :--- |
 | [![Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers) | **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** | Python / CLI | YouTube, TikTok, Instagram, X, Twitch & 1,000+ video sites extractor |
 | [![Stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=social&color=white)](https://github.com/sherlock-project/sherlock/stargazers) | **[sherlock](https://github.com/sherlock-project/sherlock)** | Python | Hunt down social media accounts by username across 400+ social networks |
@@ -244,7 +244,7 @@ We welcome contributions from developers, researchers, and maintainers!
 2. 🌿 Create your feature branch (`git checkout -b feature/add-new-scraper`).
 3. 📝 Add your entry under either **Enterprise SaaS** or **Open-Source GitHub Projects**. Ensure:
    - Specific pricing and free tier limits are provided for SaaS entries.
-   - Exact GitHub star badges (`style=social&color=white`) are included for open-source tools.
+   - Exact GitHub Stars_Badges (`style=social&color=white`) are included for open-source tools.
    - Tables are maintained in sorted order.
 4. 💾 **Commit** your changes (`git commit -m 'Add awesome-scraper to directory'`).
 5. 🚀 **Push** to the branch (`git push origin feature/add-new-scraper`).
