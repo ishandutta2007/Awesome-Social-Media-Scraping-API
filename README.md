@@ -62,6 +62,7 @@ Sorted in **descending order by company scale** (estimated valuation or annual r
 | **[ScrapeCreators](https://scrapecreators.com/)** | **Seed Stage / Emerging** | **$47 one-time / starting pack** (Pay-as-you-go) | **100 free credits upon registration** (No CC required) | Creator profile, video, reel, and ad-library extraction across TikTok, IG, & YouTube |
 | **[Social Fetch](https://www.socialfetch.dev/)** | **Seed Stage / Emerging** | **$29 / month** (or prepaid packs from **$14**) | **100 free credits upon registration** (No CC required) | Unified normalized JSON schema covering 50+ social networks |
 | **[SociaVault](https://sociavault.com/)** | **Seed Stage / Emerging** | **$29 starting pack** (Non-expiring prepaid credits) | **50 free credits upon registration** (Never expires, no CC required) | Pay-as-you-go endpoints for profiles, posts, comments, and ad-libraries across 25+ sites |
+| **[Groundsocial](https://groundsocial.dev/)** | **Pre-seed / Launched Nov 2026** | **$10 one-time / starting pack** (10,000 credits, pay-as-you-go) | **100 free credits upon registration** (Never expire, no CC required) | Posts, comments, profiles, transcripts and ad libraries from 77 platforms in each platform's own JSON shape, with a hosted MCP server |
 
 ---
 
@@ -126,6 +127,12 @@ Sorted in **descending order by company scale** (estimated valuation or annual r
 * **Pricing**: Prepaid credit packs from **$29**.
 * **Free Tier / Limits**: **50 free credits** upon registration that never expire.
 * **Core Strengths**: Zero recurring commitment; pay only for valid records returned across 25+ networks.
+
+#### 11. 🧭 [Groundsocial](https://groundsocial.dev/)
+* **Scale**: New, launched November 2026; bootstrapped.
+* **Pricing**: Prepaid credit packs from **$10** (10,000 credits) down to **$0.40 per 1,000** at volume; one credit is one standard read.
+* **Free Tier / Limits**: **100 free credits** upon signup, no credit card; credits never expire and failed calls are refunded.
+* **Core Strengths**: Responses keep each platform's native shape (Reddit Listings, X API v2 objects, YouTube Data API resources), so existing parsers keep working; REST API, OpenAPI spec and a remote MCP server for AI agents.
 
 ---
 
